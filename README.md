@@ -3,8 +3,8 @@
 Would you like to create your own website in less than 30 minutes? If so, follow the breadcrumbs...
 1. Create an account in [GitHub](https://github.com/) (~5 min)
 1. Do the [Hello World tutorial](https://guides.github.com/activities/hello-world/) (~15 min)
-1. Build a [Webpage](https://guides.github.com/features/pages/) (~10 min)
-1. Now, checkout your new webpage in a browser: username.github.io
+1. Build a [Page tutorial](https://guides.github.com/features/pages/) (~10 min)
+1. Now, checkout your new webpage in the browser: username.github.io
 
 
 ..... Enjoy the Journey .....
