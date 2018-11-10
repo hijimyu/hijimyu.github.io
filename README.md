@@ -8,8 +8,7 @@ Would you like to create your own website in less than 30 minutes? If so, follow
 
 
 ..... Enjoy the Journey .....
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
 
 ## Content below are still a work in progress...
 
