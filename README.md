@@ -1,5 +1,10 @@
 ## Welcome to Jim's Webpage on GitHub
 
+Would you like to create your own website? If so, follow the breadcrumbs...
+1. Create an account in [GitHub](https://github.com/) ~5 min
+2. 
+3.
+
 I use the [editor on GitHub](https://github.com/hijimyu/hijimyu.github.io/edit/master/README.md) to maintain the content for my website.
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
