@@ -6,7 +6,9 @@ Would you like to create your own website in less than 30 minutes? If so, follow
 3. Build a [Webpage] (https://guides.github.com/features/pages/) (~10 min)
 4. Now, checkout your new webpage in a browser: username.github.io
 
-## Below are some default content
+
+
+## Content below are still a work in progress...
 
 I use the [editor on GitHub](https://github.com/hijimyu/hijimyu.github.io/edit/master/README.md) to maintain the content for my website.
 
