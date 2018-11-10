@@ -1,9 +1,12 @@
-## Welcome to Jim's Webpage on GitHub
+## Welcome to Jim's Webpage
 
-Would you like to create your own website? If so, follow the breadcrumbs...
-1. Create an account in [GitHub](https://github.com/) ~5 min
-2. 
-3.
+Would you like to create your own website in less than 30 minutes? If so, follow the breadcrumbs...
+1. Create an account in [GitHub](https://github.com/) (~5 min)
+2. Do the [Hello World tutorial](https://guides.github.com/activities/hello-world/) (~15 min)
+3. Build a [Webpage] (https://guides.github.com/features/pages/) (~10 min)
+4. Now, checkout your new webpage in a browser: username.github.io
+
+## Below are some default content
 
 I use the [editor on GitHub](https://github.com/hijimyu/hijimyu.github.io/edit/master/README.md) to maintain the content for my website.
 
